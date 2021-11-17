@@ -5,7 +5,7 @@ import React from "react"
 import * as styles from "./hero.module.css"
 
 const worldDataEndpoint =
-  "https://nwdb.info/server-status/servers.json?worldId=3f1cd819f97e"
+  "https://nwdb.info/server-status/servers.json?worldId=da497b523fed"
 
 const parseServerData = data => {
   const [
