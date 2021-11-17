@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkBifrost=self.webpackChunkBifrost||[]).push([[281],{9532:function(e,t,n){n.r(t);var r=n(7294);t.default=function(){return r.useEffect((function(){window.location.href="https://discord.gg/AJjDskFh"}),[]),r.createElement(r.Fragment,null,r.createElement("meta",{"http-equiv":"refresh",content:"0; URL=https://discord.gg/AJjDskFh"}),r.createElement("link",{rel:"canonical",href:"https://discord.gg/AJjDskFh"}))}}}]);
+//# sourceMappingURL=component---src-pages-discord-jsx-a1ceff90fe448b361997.js.map
